@@ -1,4 +1,13 @@
 
+<h1 align="center">
+  <br>
+  <a href="http://qmtis.com/"><img src="https://github.com/MihailButnaru/InvestigationML/blob/master/gFood.png" width="300"></a>
+  <br>
+    GFood
+  <br>
+</h1>
+<h4 align="center">Food Recommendation Mobile Application.</h4>
+<br>
 
 # Investigation in to Sentiment Analysis and Machine Learning to Develop a Food Recommendation Mobile Application
 
@@ -10,4 +19,9 @@ The mobile application could be downloaded from the repository, by the end of Oc
 
 
 ## Preview
-![alt text]()
+![alt text](https://github.com/MihailButnaru/InvestigationML/blob/master/Layout.png)
+
+## Brochure
+![alt text](https://github.com/MihailButnaru/InvestigationML/blob/master/FirstPage.jpg)
+![alt text](https://github.com/MihailButnaru/InvestigationML/blob/master/SecondPage.jpg)
+
