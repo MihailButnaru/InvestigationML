@@ -25,3 +25,5 @@ The mobile application could be downloaded from the repository, by the end of Oc
 ![alt text](https://github.com/MihailButnaru/InvestigationML/blob/master/FirstPage.jpg)
 ![alt text](https://github.com/MihailButnaru/InvestigationML/blob/master/SecondPage.jpg)
 
+## Author
+Mihail Butnaru @2018
