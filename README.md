@@ -9,7 +9,7 @@
 <h4 align="center">Food Recommendation Mobile Application.</h4>
 <br>
 
-# Investigation in to Sentiment Analysis and Machine Learning to Develop a Food Recommendation Mobile Application
+# Investigation into Sentiment Analysis and Machine Learning to Develop a Food Recommendation Mobile Application
 
 This thesis, follows the research and development of sentiment analysis and machine learning approaches. In order to address the problem of deciding where this cuisine can be procured. The sentiment analysis and machine learning will be centred around data collected from a user’s Facebook account. This will then be extracted and used to identify and evaluate the sentiments of posts.
 
